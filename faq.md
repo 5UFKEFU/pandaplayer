@@ -16,4 +16,3 @@ Q: Subtitles will automatically search for those websites.
 A: Support opensubitle.org, we will support more websites in the future.
 Q: Subtitles have those features
 A: Resize, delay, change garbled, etc.
- 
