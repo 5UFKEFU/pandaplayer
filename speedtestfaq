@@ -1,1 +1,58 @@
-test
+
+HELP
+
+I don't understand my results. They seem inaccurate.
+What does changing the test server do?
+What do these terms mean? (Glossary)
+I paid for ad removal, but I’m still seeing ads.
+I don't understand my results. They seem inaccurate.
+
+Speedtest measures the speed between your device and a test server, using your device's internet connection. Several factors involved in the test can result in unexpected speeds.
+
+Devices (phones, tablets, PCs, etc…) can have very different Wi-Fi and cellular radio capabilities. Some devices may not be able to measure the full speed of your internet service. It’s also possible that your Wi-Fi router doesn’t support the full speed of your service.
+
+Speedtest servers may perform better than others. Generally, you will get faster speeds from servers closer to you. We recommend testing to a variety of test servers to get the most complete picture of your speed.
+
+Speed testing services use different servers in different locations than Speedtest, so differences in speeds are not uncommon.
+
+Browsers (Chrome, Firefox, Edge, Safari, etc…) have different capabilities and may provide different results, particularly on high-speed connections. Using the Speedtest apps, instead of the website, usually provides more reliable results.
+
+What does changing the test server do?
+
+Speedtest measures the speed between your device and a test server. When Speedtest starts, it automatically chooses a test server nearby with a fast ping time. It’s possible that a server further away has a much faster ping time than a server nearer to your location, so it gets selected. Ensure that you have location enabled for Speedtest in your device settings so it can find servers nearby.
+
+Choosing a Server: For a more complete measure of your speed, we recommend testing to servers in various locations. Many streaming services and websites may host their content on servers all around the world. To change the server, tap the server name on the test screen to open the Change Server screen.
+
+Sponsored Servers: While some servers are sponsored by ISPs and mobile carriers, testing to those servers does not tell you how fast your connection would be if you were to sign up for their services. All Speedtests measure the speed of your current internet service.
+
+What do these terms mean? (Glossary)
+
+Download: How quickly you pull data from a server on the internet to your device.
+
+Upload: How quickly you send data from your device to the internet.
+
+Ping: Also called latency, ping is the reaction time of your connection–how quickly your device gets a response after you've sent out a request. Ping is measured in milliseconds (ms).
+
+Jitter: Jitter is a measure of the variability in ping over time. High jitter can result in buffering and other interruptions. Jitter is measured in milliseconds (ms).
+
+Packet loss: Packet loss occurs when a packet of data being sent over the internet is not received or is incomplete. Packet loss in most cases is result of poor signal/line quality. Packet loss is expressed in percentage of packets lost.
+
+Mbps: Megabits per second. This is a standard unit of measurement for internet speed. There are 8 bits in a byte.
+
+MB/s and kB/s: Megabytes per second and kilobytes per second. These are alternate units of measurement expressed in bytes, a standard measurement of file size.
+
+I paid for ad removal, but I’m still seeing ads.
+
+Go to Settings in the app and tap Remove Ads and then Restore. If restore fails…
+
+Ensure that you're using the same App Store account that you used originally for the purchase.
+
+Ensure that you're not behind any firewalls or work networks that might block access to Apple servers.
+
+Try restarting your device and restoring purchases in the app again.
+
+If it’s still not working, please contact Apple for support.
+
+Note, an ad-free purchase is good only for the iPhone app.
+
+© 2006-2019 speedtest, LLC. All Rights Reserved
